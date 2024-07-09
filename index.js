@@ -1,5 +1,5 @@
 /**
- * Author: Ali PIÇAKCI alipicakci0@gmail.com 2016 
+ * Author: Ali PIÇAKCI 2016 
  */
 ; (function () {
 
